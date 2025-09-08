@@ -4,7 +4,6 @@
 - 🔭 Atualmente quero trabalhar na área Front-End.
 - 🌱 Estudando Javascript.
 - 👯 Procuro pessoas com o mesmo interesse em Desenvolvimneto Web.
-- 😄 Pronouns: Ele/Dele.
 - 🎮 Gosto de games.
 
 ##
